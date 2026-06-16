@@ -11,11 +11,15 @@ Campus Innovators
 
 ## Team Members and Roles
 
-| Student ID || Name | Role | Responsibility |
-|--------||--------|--------|--------|
-|6705057|| Khin Zu Zu Oo| Product Lead | Define problem, target users, and project direction |
-|6709729|| Min Khant Zaw | Technical Lead | Manage repository and system development |
-|6709650|| Phyo Min Khant| UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
+| Student ID | Name | Role | Main Responsibility |
+|---|---|---|---|
+| 6705057 | Khin Zu Zu Oo| Product Lead | Define problem and target users |
+| Student ID | Name | Role | Main Responsibility |
+|---|---|---|---|
+| 6709729 | Min Khant Zaw| Technical Lead | Manage respository and system development |
+| Student ID | Name | Role | Main Responsibility |
+|---|---|---|---|
+| 6709650 | Phyo Min Khant | UX/UI Lead + Documentation Lead | Define problem and target users |
 
 ## Initial Problem Area
 
